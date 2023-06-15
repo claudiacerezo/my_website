@@ -1,4 +1,4 @@
-baseURL: http://https://claudiacerezo-portfolio.netlify.app/
+baseURL: https://claudiacerezo-portfolio.netlify.app/
 languageCode: en-us
 title: Forty
 theme: forty
@@ -7,9 +7,8 @@ disqusShortname: ''
 params:
   banner:
     buttonText: Get Started
-    subtitle: # |-
-      A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
-      AND RELEASED UNDER THE CREATIVE COMMONS.
+    subtitle:  |-
+      A website created by Claudia for her Data Science for Business class
     title: Portfolio website for Claudia Cerezo Carrasco
   blog: {}
   contact:
