@@ -80,19 +80,19 @@ params:
   tiles:
     enable: yes
     showcase:
-      - image: pic01.jpg
+      - image: puppies.jpg
         subtitle: Homework 1
         title:  Homework 1
         url: blogs/homework1.htm
-      - image: pic02.jpg
+      - image: paella.jpg
         subtitle: Homework 2
         title: Homework 2
         url: blogs/homework2.htm
-      - image: pic03.jpg
+      - image: madrid.jpg
         subtitle: Homework 3
         title: Homework 3
         url: blogs/homework3.html
-      - image: pic04.jpg
+      - image: cheese.jpg
         subtitle: Homework 4
         title: Homework 4
         url: blogs/homework4.htm
