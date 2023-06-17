@@ -59,21 +59,21 @@ params:
   image: ''
   name: Your name
   navigation:
-    button1:
-      - name: Get Started
-        url: blogs
+    #button1:
+      #- name: Get Started
+       # url: blogs
     button2:
       - name: Log In
         url: '#'
-    links:
+    #links:
       - name: Home
         url: '#'
-      - name: Blogs
-        url: blogs
-      - name: Generic Blog
-        url: blogs/ipsum
-      - name: Elements
-        url: elements.html
+     # - name: Blogs
+      #  url: blogs
+    #  - name: Generic Blog
+     #   url: blogs/ipsum
+    #  - name: Elements
+     #   url: elements.html
     menu: Menu
     subtitle: By HTML5 Up
     title: Forty
