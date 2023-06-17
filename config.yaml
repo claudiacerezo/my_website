@@ -81,29 +81,29 @@ params:
     enable: yes
     showcase:
       - image: pic01.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Aliquam
-        url: blogs/aliquam
+        subtitle: Homework 1
+        title:  Homework 1
+        url: blogs/homework1.htm
       - image: pic02.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Tempus
-        url: blogs/tempus
+        subtitle: Homework 2
+        title: Homework 2
+        url: blogs/homework2.htm
       - image: pic03.jpg
-        subtitle: Lorem Etiam Nullam
-        title: Magna
-        url: blogs/magna
+        subtitle: Homework 3
+        title: Homework 3
+        url: blogs/homework3.html
       - image: pic04.jpg
-        subtitle: Nisl Sed Aliquam
-        title: Ipsum
-        url: blogs/ipsum
-      - image: pic05.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Consequat
-        url: blogs/ipsum
-      - image: pic06.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Etiam
-        url: blogs/ipsum
+        subtitle: Homework 4
+        title: Homework 4
+        url: blogs/homework4.htm
+      #- image: pic05.jpg
+       # subtitle: Ipsum Dolor Sit Amet
+        #title: Consequat
+        #url: blogs/ipsum
+     # - image: pic06.jpg
+      #  subtitle: Feugiat Amet Tempus
+      #  title: Etiam
+      #  url: blogs/ipsum
   two:
     buttonText: Get Started
     enable: yes
