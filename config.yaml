@@ -107,6 +107,6 @@ params:
   two:
     buttonText: Get Started
     enable: yes
-    subtitle: "This website is for my Data Science for Business elective course, where I learned a lot!"
+    subtitle: "This website is for my Data Science for Business elective course, where I learned a lot! I have changed the picture to things I" 
     title: Data Science for Business Class
     url: blogs
